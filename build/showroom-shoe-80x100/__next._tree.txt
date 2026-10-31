@@ -1,0 +1,8 @@
+:HL["/tarkib-site/_next/static/chunks/3d54dxi1x2k9b.css","style"]
+:HC["/",""]
+:HL["/tarkib-site/logos/tarkib-logo-principal.svg","image"]
+:HL["/tarkib-site/logos/tarkib-symbole.svg","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"showroom-shoe-80x100","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"build","h":64,"c":"$Q2"}]]
+0:{"b":"fFsllDcXB_ORW8ddsil_x","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

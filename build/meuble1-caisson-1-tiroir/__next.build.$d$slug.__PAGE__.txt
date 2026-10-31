@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/tarkib-site/_next/static/chunks/42onvq6nokjl2.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+c:"$Sreact.suspense"
+d:"/tarkib-site/_next/static/chunks/25umzudjhqc8k.js"
+e:"/tarkib-site/_next/static/chunks/10qamxgpv-jlp.js"
+f:"/tarkib-site/_next/static/chunks/05aqgznrh2p49.js"
+10:"/tarkib-site/_next/static/chunks/228tr9kz9uhw_.js"
+11:"/tarkib-site/_next/static/chunks/3sq1-mf9obnq8.js"
+12:"/tarkib-site/_next/static/chunks/0bwlodxq3zg78.js"
+13:"/tarkib-site/_next/static/chunks/3ec0nwxwia59-.js"
+14:I[59424,["$d","$e","$f","$10","$11","$12","$13"],"default"]
+15:I[97367,["$3"],"OutletBoundary"]
+18:"ViewportBoundary"
+19:I[97367,["$3"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3"],"$1a"]
+1c:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","$c",null,{"fallback":["$","div",null,{"className":"guide shell"}],"children":["$","$L14",null,{"slug":"meuble1-caisson-1-tiroir"}]}],[["$","script","script-0",{"src":"/tarkib-site/_next/static/chunks/10qamxgpv-jlp.js","async":true}],["$","script","script-1",{"src":"/tarkib-site/_next/static/chunks/05aqgznrh2p49.js","async":true}],["$","script","script-2",{"src":"/tarkib-site/_next/static/chunks/228tr9kz9uhw_.js","async":true}],["$","script","script-3",{"src":"/tarkib-site/_next/static/chunks/3sq1-mf9obnq8.js","async":true}],["$","script","script-4",{"src":"/tarkib-site/_next/static/chunks/0bwlodxq3zg78.js","async":true}],["$","script","script-5",{"src":"/tarkib-site/_next/static/chunks/3ec0nwxwia59-.js","async":true}]],["$","$L15",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$8"}}]]
+9:[["children",{"s":{"n":"slug","t":"d","k":"meuble1-caisson-1-tiroir","s":[]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$7","s":"$8"},"c":"$Qb"}]]
+1:[["children",{"s":"build","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f5f1e8"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MEUBLE1 caisson 1 tiroir, 52 × 90 cm : le montage étape par étape | Tarkib"}],["$","meta","1",{"name":"description","content":"Comment monter le MEUBLE1 caisson 1 tiroir, 52 × 90 cm, étape par étape en 3D : chaque panneau, chaque vis, chaque outil, environ 45 minutes à deux."}],["$","meta","2",{"name":"application-name","content":"Tarkib"}],["$","link","3",{"rel":"manifest","href":"/tarkib-site/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","5",{"name":"googlebot","content":"noindex, nofollow"}],["$","link","6",{"rel":"canonical","href":"https://zakaria-izri.github.io/tarkib-site/build/meuble1-caisson-1-tiroir/"}],["$","meta","7",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","8",{"name":"apple-mobile-web-app-title","content":"Tarkib"}],["$","meta","9",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","10",{"property":"og:title","content":"MEUBLE1 caisson 1 tiroir, 52 × 90 cm : le montage étape par étape | Tarkib"}],["$","meta","11",{"property":"og:description","content":"Comment monter le MEUBLE1 caisson 1 tiroir, 52 × 90 cm, étape par étape en 3D : chaque panneau, chaque vis, chaque outil, environ 45 minutes à deux."}],["$","meta","12",{"property":"og:url","content":"https://zakaria-izri.github.io/tarkib-site/build/meuble1-caisson-1-tiroir/"}],["$","meta","13",{"property":"og:site_name","content":"Tarkib"}],["$","meta","14",{"property":"og:image","content":"https://zakaria-izri.github.io/tarkib-site/build/meuble1-caisson-1-tiroir/opengraph-image.png?8a1856076c46f77c"}],["$","meta","15",{"property":"og:image:type","content":"image/png"}],["$","meta","16",{"property":"og:image:width","content":"1200"}],["$","meta","17",{"property":"og:image:height","content":"630"}],["$","meta","18",{"property":"og:image:alt","content":"Une notice de montage sur Tarkib : le meuble dessiné en 3D, étape par étape"}],["$","meta","19",{"property":"og:type","content":"article"}],["$","meta","20",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","21",{"name":"twitter:title","content":"MEUBLE1 caisson 1 tiroir, 52 × 90 cm : le montage étape par étape | Tarkib"}],["$","meta","22",{"name":"twitter:description","content":"Comment monter le MEUBLE1 caisson 1 tiroir, 52 × 90 cm, étape par étape en 3D : chaque panneau, chaque vis, chaque outil, environ 45 minutes à deux."}],["$","meta","23",{"name":"twitter:image","content":"https://zakaria-izri.github.io/tarkib-site/build/meuble1-caisson-1-tiroir/twitter-image.png?8a1856076c46f77c"}],["$","meta","24",{"name":"twitter:image:alt","content":"Une notice de montage sur Tarkib : le meuble dessiné en 3D, étape par étape"}],["$","meta","25",{"name":"twitter:image:type","content":"image/png"}],["$","meta","26",{"name":"twitter:image:width","content":"1200"}],["$","meta","27",{"name":"twitter:image:height","content":"630"}],["$","link","28",{"rel":"icon","href":"/tarkib-site/favicon.ico?favicon.3sy-mqokqmak1.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","29",{"rel":"icon","href":"/tarkib-site/icon.svg?icon.050e_i-r0lad5.svg","sizes":"any","type":"image/svg+xml"}],["$","link","30",{"rel":"apple-touch-icon","href":"/tarkib-site/apple-icon.png?apple-icon.2wjrl3r_ee36d.png","sizes":"180x180","type":"image/png"}],["$","$L1c","31",{}]]}]}],null]}],null]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"fFsllDcXB_ORW8ddsil_x"}
+16:null
+1f:true
+8:300
+8:C
+1e:0
+a:"$undefined"
+6:"$undefined"
+1d:"$undefined"
+17:"$undefined"

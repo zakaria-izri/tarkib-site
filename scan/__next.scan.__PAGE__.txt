@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/tarkib-site/_next/static/chunks/42onvq6nokjl2.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+b:I[97367,["$3"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$3"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$3"],"$11"]
+13:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":["$La",[["$","script","script-0",{"src":"/tarkib-site/_next/static/chunks/10qamxgpv-jlp.js","async":true}],["$","script","script-1",{"src":"/tarkib-site/_next/static/chunks/228tr9kz9uhw_.js","async":true}],["$","script","script-2",{"src":"/tarkib-site/_next/static/chunks/0bwlodxq3zg78.js","async":true}],["$","script","script-3",{"src":"/tarkib-site/_next/static/chunks/3ec0nwxwia59-.js","async":true}],["$","script","script-4",{"src":"/tarkib-site/_next/static/chunks/11llj4p2dicm0.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$8"}}]]
+1:[["children",{"s":"scan","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f5f1e8"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Scan a manual | Tarkib"}],["$","meta","1",{"name":"description","content":"Photograph any assembly manual and Together AI turns it into a step by step guide in 3D."}],["$","meta","2",{"name":"application-name","content":"Tarkib"}],["$","link","3",{"rel":"manifest","href":"/tarkib-site/manifest.webmanifest"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow, nocache"}],["$","meta","5",{"name":"googlebot","content":"noindex, nofollow"}],["$","meta","6",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","7",{"name":"apple-mobile-web-app-title","content":"Tarkib"}],["$","meta","8",{"name":"apple-mobile-web-app-status-bar-style","content":"default"}],["$","meta","9",{"property":"og:title","content":"Tarkib Guide : montez vos meubles, étape par étape"}],["$","meta","10",{"property":"og:description","content":"Les notices de montage de nos meubles, en 3D : chaque étape avec ses pièces, ses vis et ses outils."}],["$","meta","11",{"property":"og:url","content":"https://zakaria-izri.github.io/tarkib-site/"}],["$","meta","12",{"property":"og:site_name","content":"Tarkib"}],["$","meta","13",{"property":"og:image","content":"https://zakaria-izri.github.io/tarkib-site/opengraph-image.png?501805df492d3341"}],["$","meta","14",{"property":"og:image:type","content":"image/png"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"Tarkib Guide : montez vos meubles, étape par étape. Une étape de montage dessinée en 3D."}],["$","meta","18",{"property":"og:type","content":"website"}],["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","20",{"name":"twitter:title","content":"Tarkib Guide : montez vos meubles, étape par étape"}],["$","meta","21",{"name":"twitter:description","content":"Les notices de montage de nos meubles, en 3D : chaque étape avec ses pièces, ses vis et ses outils."}],["$","meta","22",{"name":"twitter:image","content":"https://zakaria-izri.github.io/tarkib-site/twitter-image.png?501805df492d3341"}],["$","meta","23",{"name":"twitter:image:alt","content":"Tarkib Guide : montez vos meubles, étape par étape. Une étape de montage dessinée en 3D."}],["$","meta","24",{"name":"twitter:image:type","content":"image/png"}],["$","meta","25",{"name":"twitter:image:width","content":"1200"}],["$","meta","26",{"name":"twitter:image:height","content":"630"}],["$","link","27",{"rel":"icon","href":"/tarkib-site/favicon.ico?favicon.3sy-mqokqmak1.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","28",{"rel":"icon","href":"/tarkib-site/icon.svg?icon.050e_i-r0lad5.svg","sizes":"any","type":"image/svg+xml"}],["$","link","29",{"rel":"apple-touch-icon","href":"/tarkib-site/apple-icon.png?apple-icon.2wjrl3r_ee36d.png","sizes":"180x180","type":"image/png"}],["$","$L13","30",{}]]}]}],null]}],null]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"fFsllDcXB_ORW8ddsil_x"}
+a:E{"digest":"NEXT_HTTP_ERROR_FALLBACK;404"}
+d:null
+16:true
+8:300
+8:C
+15:0
+6:"$undefined"
+14:"$undefined"
+e:"$undefined"
